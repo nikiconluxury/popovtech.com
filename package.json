@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dorinam/Coming-Soon.git"
+    "url": "git+https://github.com/nikiconluxury/popovtech.com"
   },
   "keywords": [
     "projects",
@@ -29,9 +29,9 @@
   "author": "Nik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dorinam/Coming-Soon/issues"
+    "url": "https://github.com/nikiconluxury/popovtech.com"
   },
-  "homepage": "https://github.com/dorinam/Coming-Soon#readme",
+  "homepage": "https://github.com/nikiconluxury/popovtech.com/index.html",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.1.0",
     "lite-server": "^2.6.1"
@@ -40,8 +40,11 @@
     "@fortawesome/fontawesome": "^1.1.8",
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
-    "fontawesome": "^4.7.2",
     "jquery": "^3.3.1",
-    "popper": "^1.0.1"
+    "popper.js": "^1.16.1"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
   }
 }
